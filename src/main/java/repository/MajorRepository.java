@@ -126,7 +126,7 @@ public class MajorRepository {
 		
 		return i;
 	}
-	/*public  int deleteMajor(int id) {
+	public  int deleteMajor(int id) {
 		int i=0;
 		
 		 String sql="update major set delete_flag=0 where id=?";
@@ -149,6 +149,6 @@ public class MajorRepository {
 		}
 		
 		return i;
-	}*/
+	}
 	}
 
